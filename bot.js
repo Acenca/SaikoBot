@@ -13,4 +13,4 @@ client.on('message', message => {
 });
 
 // THIS  MUST  BE  THIS  WAY
-client.login(process.env.msnvTo6DNNtnYuOTtIU_qtEUfvb3sCLx);
+client.login('msnvTo6DNNtnYuOTtIU_qtEUfvb3sCLx');
